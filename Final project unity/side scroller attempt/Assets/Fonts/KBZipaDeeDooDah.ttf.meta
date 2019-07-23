@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab1ae3a7d74da5146b6e88278aef2a24
+timeCreated: 1526479072
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KBZipaDeeDooDah
+  fontNames:
+  - KBZipaDeeDooDah
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
